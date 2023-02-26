@@ -1,39 +1,40 @@
- Projects em Javascript
+Project Java Calculator
 
 
-<img src="https://cdn.hackr.io/uploads/posts/large/1610440688CsnTItSOqE.png" alt="Javascript">
+![calculadora](https://user-images.githubusercontent.com/98132837/221406754-e3a12ac4-a4f3-4285-947d-a1c8bd49ee5e.png)
 
-> Basicamente esse repositorio servira como auxilio para estudos em javascript estou em faze de aprendizado na linguagem e vou estar compartilhando alguns projetos aqui!. 
+
+> 
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [ ] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Tarefa 1 - Criação da interface
+- [x] Tarefa 2 - Definir paleta de cores
+- [x] Tarefa 3 - Manipulação dos numeros
+- [x] Tarefa 4 - Executar funções de soma,divisão,Multiplicação e subtração 
+- [ ] Tarefa 5 - Entrada das teclas numericas diretamente do teclado
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a versão mais recente de IDE: Visual studio Code / Live SASS compiler
+* Você instalou a versão mais recente de IDE: Netbeans / ItelliJ / JDK 17
 * Você tem uma máquina Windows / Linux / Mac? Todos os sistemas são compativeis.
 
 
-## 🚀 Instalando <Nome-projeto>
+## 🚀 Instalando <Calculator-swing>
 
 Para instalar o <Nome projeto>, siga estas etapas:
 
 Linux e macOS:
 ```
-git clone Repositorio
+git clone Repositorio git@github.com:iKaueMatos/Calculator-swing.git
 ```
 
 Windows:
 ```
-git clone Repositorio
+git clone Repositorio git@github.com:iKaueMatos/Calculator-swing.git
 ```
 
 ## 🤝 Colaboradores

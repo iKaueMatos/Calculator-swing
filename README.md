@@ -4,11 +4,11 @@ Project Java Calculator
 ![calculadora](https://user-images.githubusercontent.com/98132837/221406754-e3a12ac4-a4f3-4285-947d-a1c8bd49ee5e.png)
 
 
-> 
+> O intuito do projeto e aplicar meus conhecimentos em criação de interfaces com Jframe(Swing) onde podemos manipular objetos e definir metodos para eles executarem após serem precionados.
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto ainda está em desenvolvimento e as próximas atualizações serão desenvolvidas em breve:
 
 - [x] Tarefa 1 - Criação da interface
 - [x] Tarefa 2 - Definir paleta de cores
@@ -55,5 +55,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </table>
 
 
-[⬆ Voltar ao topo](#Projects-javascript)<br>
+[⬆ Voltar ao topo](#Project-java-calculator)<br>
 
